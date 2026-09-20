@@ -16,3 +16,5 @@ print(men_stepped_on_the_moon)
 <img width="840" height="234" alt="image" src="https://github.com/user-attachments/assets/ee494102-0b11-42a4-845d-e0808033bd91" />
 
 ## Result
+Thus the python program to get the input from the user and print it executed successfully.
+
